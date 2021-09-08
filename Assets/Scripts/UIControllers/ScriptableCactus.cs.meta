@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e8aa0985696990b409a71866df7cca6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obsticleSprite: {instanceID: 0}
+  - cactusPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
